@@ -9,3 +9,4 @@ RUN chmod +rx /code/pi.py
 ENV PATH "/code:$PATH"
 
 RUN echo "This is a test."
+RUN echo "This is second test."
